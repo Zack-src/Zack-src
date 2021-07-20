@@ -1,16 +1,20 @@
-### Hi there 👋
+Hey you, I'm Zack
 
-<!--
-**Zack-src/Zack-src** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/theyloors"> <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821968828301312/twitter.png"/> </a>
+  <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866823344284237834/discord.png"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+
+### Languages and Tools:
+
+<p align="center">
+  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821187178987570/C.png"/>
+  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866824258525069362/visualstudio-2019-62bfdf4c9e.png"/>
+  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866824997691195402/git.png"/>
+  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821599776866304/github.png"/>
+</p>
