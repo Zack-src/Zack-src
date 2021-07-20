@@ -13,8 +13,8 @@ Hey you, I'm Zack
 ### Languages and Tools:
 
 <p align="center">
-  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821187178987570/C.png"/>
-  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866824258525069362/visualstudio-2019-62bfdf4c9e.png"/>
-  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866824997691195402/git.png"/>
-  <img margin-left=50px width="75px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821599776866304/github.png"/>
+  <img margin-left=50px width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977213059082/C.png"/>
+  <img margin-left=50px width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977054068756/vscode.png"/>
+  <img margin-left=50px width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977289080832/git.png"/>
+  <img margin-left=50px width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977050005544/ghub.png"/>
 </p>
