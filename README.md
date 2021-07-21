@@ -24,9 +24,9 @@ Hey you, I'm Zack
 <h2 align="center">Github stats</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zack-src&show_icons=true&include_all_commits=true&title_color=FF191D&custom_title=Zack%20GitHub%20&Statstitle_color=E61515&icon_color=E67800&text_color=DEDEDE&bg_color=191919&border_color=FFFFFF&line_height=20" alt="Zack-src" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zack-src&show_icons=true&include_all_commits=true&title_color=FF191D&custom_title=Zack%20GitHub%20&Statstitle_color=E61515&icon_color=E67800&text_color=DEDEDE&bg_color=191919&border_color=FFFFFF&line_height=20"/>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&title_color=FF191D&text_color=DEDEDE&bg_color=191919" alt="Zack-src-top-langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&title_color=FF191D&text_color=DEDEDE&bg_color=191919"/>
 
 </p>
 
