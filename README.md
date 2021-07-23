@@ -8,8 +8,7 @@ Hey you, I'm Zack
 
 <hr>
 
-
-### Languages and Tools:
+<h2>🛠 Languages and Tools:</h2>
 
 <p align="center">
     <img width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977213059082/C.png"/>
@@ -21,7 +20,7 @@ Hey you, I'm Zack
 
 <hr>
 
-<h2 align="center">Github stats</h2>
+<h2>⚙️ GitHub Analytics :</h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Zack-src&show_icons=true&include_all_commits=true&title_color=FF191D&custom_title=Zack%20GitHub%20&Statstitle_color=E61515&icon_color=E67800&text_color=DEDEDE&bg_color=191919&border_color=FFFFFF&line_height=20"/>
