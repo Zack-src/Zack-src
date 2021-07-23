@@ -1,12 +1,4 @@
 Hey you, I'm Zack
-### Connect with me:
-
-<p align="center">
-    <a href="https://twitter.com/theyloors"> <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821968828301312/twitter.png"/> </a>
-    <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866823344284237834/discord.png"/>
-</p>
-
-<hr>
 
 <h2>🛠 Languages and Tools:</h2>
 
@@ -26,6 +18,15 @@ Hey you, I'm Zack
     <img src="https://github-readme-stats.vercel.app/api?username=Zack-src&show_icons=true&include_all_commits=true&title_color=FF191D&custom_title=Zack%20GitHub%20&Statstitle_color=E61515&icon_color=E67800&text_color=DEDEDE&bg_color=191919&border_color=FFFFFF&line_height=20"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&title_color=FF191D&text_color=DEDEDE&bg_color=191919"/>
 
+</p>
+
+<hr>
+
+<h2>🤝🏻 Connect with me :</h2>
+
+<p align="center">
+    <a href="https://twitter.com/theyloors"> <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821968828301312/twitter.png"/> </a>
+    <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866823344284237834/discord.png"/>
 </p>
 
 ----
