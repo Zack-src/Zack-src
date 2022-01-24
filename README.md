@@ -3,10 +3,29 @@ Hey you, I'm Zack
 <h2>🛠 Languages and Tools:</h2>
 
 <p align="center">
-    <img width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977213059082/C.png"/>
-    <img width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977054068756/vscode.png"/>
-    <img width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977289080832/git.png"/>
-    <img width="75px" src="https://media.discordapp.net/attachments/739674758664421386/866833977050005544/ghub.png"/>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+	</a> 
+	
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+	</a> 
+	
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+	</a> 
+
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+	</a> 
+	
+	<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> .
+	</a> 
+	
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"> .
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+	</a> 
 </p>
 
 
