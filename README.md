@@ -18,7 +18,8 @@ Je suis étudiant en BTS SIO option SLAM.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zack-src&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Zack-src&theme=dark&title_color=f02618&text_color=aaaaaa&icon_color=2530c4&hide=prs&include_all_commits=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
