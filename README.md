@@ -1,35 +1,30 @@
-Hey you, I'm Zack
+# Hey you, I'm Zack
+Je suis étudiant en BTS SIO option SLAM.
 
-<h2>🛠 Languages and Tools:</h2>
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/>
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/.Zack#0001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/desramaux/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Zack_src) 
 
-<hr>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2>⚙️ GitHub Analytics :</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zack&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zack-src&show_icons=true&include_all_commits=true&title_color=FF191D&custom_title=Zack%20GitHub%20&Statstitle_color=E61515&icon_color=E67800&text_color=DEDEDE&bg_color=191919&border_color=FFFFFF&line_height=20"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&title_color=FF191D&text_color=DEDEDE&bg_color=191919"/>
-
-</p>
-
-<hr>
-
-<h2>🤝🏻 Connect with me :</h2>
-
-<p align="center">
-    <a href="https://twitter.com/theyloors"> <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866821968828301312/twitter.png"/> </a>
-    <img width="100px" src="https://cdn.discordapp.com/attachments/739674758664421386/866823344284237834/discord.png"/>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Zack&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ----
 
-Last Edited on: 24/01/2022
+Last Edited on: 29/06/2022
