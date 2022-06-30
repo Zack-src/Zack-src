@@ -2,11 +2,6 @@
 Je suis étudiant en BTS SIO option SLAM.
 
 
-## Contacts :
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](.Zack#0001)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desramaux/) 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Zack_src) 
-
 # Tech Stack :
 
 
@@ -38,6 +33,11 @@ Je suis étudiant en BTS SIO option SLAM.
 
   ![](https://github-readme-stats.vercel.app/api?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&hide=prs,stars)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&count_private=false&layout=compact)
+
+## Contacts :
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](.Zack#0001)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desramaux/) 
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Zack_src) 
 
 ---
 
