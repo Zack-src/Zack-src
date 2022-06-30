@@ -23,7 +23,8 @@ Je suis étudiant en BTS SIO option SLAM.
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - IDE
-
+  ![vsCode](https://img.shields.io/badge/VSCode-003545?style=for-the-badge&logo=vscode&logoColor=white) 
+  ![Eclipse](https://img.shields.io/badge/Eclipse-%2300f.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 # GitHub Stats:
 
