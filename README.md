@@ -36,7 +36,7 @@ Je suis étudiant en BTS SIO option SLAM.
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zack-src&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Zack-src&label=&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ----
 
