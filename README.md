@@ -20,12 +20,15 @@ Je suis étudiant en BTS SIO option SLAM.
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-424141.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-- DB
+- Database
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - IDE
   ![vsCode](https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-357EC7.svg?style=for-the-badge&logo=Windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-357EC7.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 # GitHub Stats:
 
