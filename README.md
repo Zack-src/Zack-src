@@ -16,6 +16,7 @@ Je suis étudiant en BTS SIO option SLAM.
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![JS](https://img.shields.io/badge/js-F7E018.svg?style=for-the-badge&logo=js&logoColor=white)
 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-424141.svg?style=for-the-badge&logo=flask&logoColor=white)
