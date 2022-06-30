@@ -4,7 +4,6 @@ Je suis étudiant en BTS SIO option SLAM.
 
 # Tech Stack :
 
-
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-f39212.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,7 +17,7 @@ Je suis étudiant en BTS SIO option SLAM.
 
   ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![NGINX](https://img.shields.io/badge/NGINX-009137.svg?style=for-the-badge&logo=NGINX&logoColor=white)
- 
+
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -29,7 +28,7 @@ Je suis étudiant en BTS SIO option SLAM.
   ![Linux](https://img.shields.io/badge/Linux-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-# GitHub Stats:
+# GitHub Stats :
 
   ![](https://github-readme-stats.vercel.app/api?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&hide=prs,stars)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&count_private=false&layout=compact)
