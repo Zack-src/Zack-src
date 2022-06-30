@@ -27,7 +27,7 @@ Je suis étudiant en BTS SIO option SLAM.
   ![vsCode](https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-357EC7.svg?style=for-the-badge&logo=Windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-357EC7.svg?style=for-the-badge&logo=debian&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 # GitHub Stats:
