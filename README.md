@@ -43,7 +43,7 @@ Je suis étudiant en BTS SIO option SLAM.
   </div>
 </div>
   
-# GitHub Stats :
+---
 
 <div align="center"> 
   <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&hide=prs,stars" /> 
