@@ -1,60 +1,68 @@
-# Hey you, I'm Zack
-Je suis étudiant en BTS SIO option SLAM.
+<h1 align="left">Hey you, I'm Zack</h1>
 
+###
 
+<p align="left">Je suis étudiant en BTS SIO option SLAM.</p>
+
+###
 # Tech Stack :
-<div id="tech_img" style="width: 25%;">
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/java-f39212.svg?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  </div>
-
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/js-D6BA31.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-  </div>
-
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/flask-424141.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  </div>
-
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/NGINX-009137.svg?style=for-the-badge&logo=NGINX&logoColor=white" />
-  </div>
-
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  </div>
-
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
-  </div>
-
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/Windows-357EC7.svg?style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
 </div>
 
----
+###
 
-<div align="center"> 
-  <img width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&hide=prs,stars" /> 
-  <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-src&theme=dark&title_color=f02618&hide_border=true&text_color=aaaaaa&include_all_commits=true&count_private=false&layout=compact" /> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="42" alt="filezilla logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" width="42" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" width="42" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" width="42" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
 </div>
 
+###
 
+<img align="right" height="200" src="https://cdn.discordapp.com/avatars/560166304686800897/a_620e22956e0f02f3f42f2a7895412384.gif?size=1280"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=Zack-src" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Zack-src" height="150" alt="languages graph"  />
+</div>
+
+###
 ## Contacts :
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](.Zack#0001)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desramaux/) 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zack_src) 
+<div align="left">
+  <a href="https://www.linkedin.com/in/desramaux/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Zack_src" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="Zack_src#0001" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Zack-src.Zack-src&left_color=coral&right_color=cadetblue"  />
+
+###
 ---
 
-Last Edited on: 18/07/2022
+Last Edited on: 01/10/2022
