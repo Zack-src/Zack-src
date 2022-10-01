@@ -11,40 +11,38 @@ Je suis étudiant en BTS SIO option SLAM.
   </div>
 
   <div style="display: flex;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/js-D6BA31.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+  </div>
 
-    <div style="display: flex;">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/js-D6BA31.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-    </div>
+  <div style="display: flex;">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/flask-424141.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  </div>
 
-    <div style="display: flex;">
-      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/flask-424141.svg?style=for-the-badge&logo=flask&logoColor=white" />
-    </div>
+  <div style="display: flex;">
+    <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/NGINX-009137.svg?style=for-the-badge&logo=NGINX&logoColor=white" />
+  </div>
 
-    <div style="display: flex;">
-      <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-      <img src="https://img.shields.io/badge/NGINX-009137.svg?style=for-the-badge&logo=NGINX&logoColor=white" />
-    </div>
+  <div style="display: flex;">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </div>
 
-    <div style="display: flex;">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    </div>
+  <div style="display: flex;">
+    <img src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
+  </div>
 
-    <div style="display: flex;">
-      <img src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
-    </div>
-
-    <div style="display: flex;">
-      <img src="https://img.shields.io/badge/Windows-357EC7.svg?style=for-the-badge&logo=Windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    </div>
+  <div style="display: flex;">
+    <img src="https://img.shields.io/badge/Windows-357EC7.svg?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </div>
 </div>
+
 ---
 
 <div align="center"> 
