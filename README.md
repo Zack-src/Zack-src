@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Je suis étudiant en BTS SIO option SLAM.</p>
+<p align="left">Je suis étudiant en BAC +3 Developpement.</p>
 
 ###
 # Tech Stack :
