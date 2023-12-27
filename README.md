@@ -7,9 +7,11 @@
 ###
 # Tech Stack :
 <div align="center">
+  
 ![My Skills](https://skillicons.dev/icons?i=git,cpp,py,java,mysql,figma)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,php,flask)
+
 </div>
 
 ###
