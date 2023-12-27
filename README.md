@@ -27,19 +27,18 @@
 ###
 ## Contacts :
 
-<div style="display: flex; justify-content: space-between">
-  <div align="left">
+<div align="center">
 
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/desramaux/)
   [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Zack_src)
   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/4WfSkHeN)
 
-  </div>
-
-  <div align="right">
-    Last Edited on: 28/12/2023
-
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zack-src.Zack-src&left_color=coral&right_color=cadetblue"  />
-  
-  </div>
+ 
+</div>
+
+---
+
+<div align="left">
+  Last Edited on: 28/12/2023 
 </div>
