@@ -3,7 +3,7 @@
 *Software engineer specialized in C++ and CUDA*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zack-src&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Statistiques GitHub" />  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zack-src&show_icons=true&theme=dracula&count_private=true" alt="Stats Zack" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zack-src&layout=compact&theme=dracula" alt="Principaux langages" />
 </p>
 
@@ -22,7 +22,7 @@
 |---|---|---|:---:|
 | [Dragon-Eyes](https://github.com/Zack-src/Dragon-Eyes) | Moteur de rendu temps réel avancé | C++ |  |
 | [xorstr](https://github.com/Zack-src/xorstr) | Obfuscation de chaînes à la compilation | C++ |  |
-| [Service-Execution](https://github.com/Zack-src/Service-Execution) | Récupération des dernier programmes exécuté sur windows | C++ | ![Téléchargements](https://img.shields.io/github/downloads/Zack-src/Service-Execution/total.svg?label=&style=flat-square) |
+| [Service-Execution](https://github.com/Zack-src/Service-Execution) | Récupération des dernier programmes exécuté sur windows | C++ | ![Téléchargements](https://img.shields.io/github/downloads/Zack-src/Service-Execution/total?label=&style=flat-square) |
 
 ---
 
@@ -52,4 +52,4 @@
 ---
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Zack-src.Zack-src&left_color=coral&right_color=cadetblue"  />
 
-**Last Edited on: 7 mai 2025**
+**Last Edited on: 24 février 2026**
