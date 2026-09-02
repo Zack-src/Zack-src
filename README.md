@@ -3,7 +3,7 @@
 *Software engineer specialized in C++ and CUDA*
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zack-src&show_icons=true&theme=dracula&count_private=true" alt="Stats Zack" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=Zack-src&show_icons=true&theme=dracula&count_private=true" alt="Stats Zack" />
   <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=Zack-src&layout=compact&theme=dracula" alt="Principaux langages" />
 </p>
 
