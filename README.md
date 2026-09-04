@@ -20,7 +20,7 @@
 
 | Projet | Description | Langage | Download |
 |---|---|---|:---:|
-| [AthanorDB](https://github.com/Zack-src/athanordb) | Outil de modélisation de base de données avancée | C++ |  |
+| [AthanorDB](https://github.com/Zack-src/athanordb) | Outil de modélisation de base de données avancée | React |  |
 | [xorstr](https://github.com/Zack-src/xorstr) | Obfuscation de chaînes à la compilation | C++ |  |
 | [Service-Execution](https://github.com/Zack-src/Service-Execution) | Récupération des dernier programmes exécuté sur windows | C++ | ![Téléchargements](https://img.shields.io/github/downloads/Zack-src/Service-Execution/total?label=&style=flat-square) |
 
